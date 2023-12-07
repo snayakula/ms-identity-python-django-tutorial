@@ -5,9 +5,9 @@
         "framework": "DJANGO"
     },
     "client": {
-        "client_id": "{enter-your-client-id-here}",
-        "client_credential": "{enter-your-client-secret-here}",
-        "authority": "https://login.microsoftonline.com/{enter-your-tenant-id-here}"
+        "client_id": "c5b880ab-dc01-4c2c-ae9e-bb4fd15ad662",
+        "client_credential": "7IH8Q~2j.6F55gHCfobcUOrZrpoSqIbmW-vAZaH4",
+        "authority": "https://login.microsoftonline.com/e00b6687-c776-4514-8a12-5549c0aabb79"
     },
     "auth_request": {
         "redirect_uri": null,
